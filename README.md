@@ -1,4 +1,4 @@
-![mealMeLogo](https://github.com/ijaeu/mealme/assets/126428545/0b10777b-5146-4d28-b3c9-24232a732be3)
+![KakaoTalk_20230802_134553003](https://github.com/ijaeu/mealme/assets/126428545/0fc72cb6-f383-4c2d-b436-99be09350042)
 
 
 # MealMe🍖

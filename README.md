@@ -1,3 +1,6 @@
+![mealMeLogo](https://github.com/ijaeu/mealme/assets/126428545/0b10777b-5146-4d28-b3c9-24232a732be3)
+
+
 # MealMe🍖
 - 식단 기록과 전문가의 컨설팅, 쇼핑몰 웹사이트
 
